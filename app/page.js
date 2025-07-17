@@ -11,10 +11,10 @@ export default function Home() {
         <div className="flex flex-col xl:flex-row justify-between items-center xl:pt-8 xl:pb-24">
           {/* text */}
           <div className="text-center xl:text-left order-2 xl:order-none">
-            <span className="text-xl">Software Developer</span>
+            <span className="text-xl">Senior Software Engineer</span>
             <h1 className="h1">
               Hello I'm <br />
-              <span className="text-accent">Jillur Rahman</span>
+              <span className="text-accent">Md. Johurul Islam</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
               I excel at crafting elegent digital experience and i am proficient

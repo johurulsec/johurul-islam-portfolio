@@ -1,7 +1,7 @@
 "use client";
 import { easeIn, easeInOut, motion, reverseEasing } from "framer-motion";
 import Image from "next/image";
-import jillur from "../public/jillur1.png";
+import jillur from "../public/johurul.jpg";
 
 const Photo = () => {
   return (
@@ -28,7 +28,7 @@ const Photo = () => {
             priority
             quality={100}
             fill
-            alt="Jillur"
+            alt="Md. Johurul Islam"
             className="object-contain"
           />
         </motion.div>

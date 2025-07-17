@@ -9,7 +9,7 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center ">
         <Link href="/" className="/">
           <h1 className="text-4xl font-semibold">
-            Jillur
+            Md. Johurul Islam
             <span className="text-accent">.</span>
           </h1>
         </Link>

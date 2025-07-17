@@ -22,17 +22,17 @@ const ContactPage = () => {
     {
       icon: <FaPhoneAlt />,
       title: "Phone",
-      description: "(+88) 01611780984",
+      description: "(+88) 01323585205",
     },
     {
       icon: <FaEnvelope />,
       title: "Email",
-      description: "jillur.cse.bd@gmail.com",
+      description: "johurul.sec@gmail.com",
     },
     {
       icon: <FaMapMarkedAlt />,
       title: "Address",
-      description: "Mymensingh,Bangladesh",
+      description: "Jamalpur sadar,Bangladesh",
     },
   ];
 

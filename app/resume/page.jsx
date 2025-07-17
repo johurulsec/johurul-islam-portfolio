@@ -29,12 +29,12 @@ const ResumePage = () => {
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae accusantium enim voluptatem praesentium",
     info: [
-      { fieldName: "Name", fieldvalue: "Jillur Rahman" },
-      { fieldName: "Phone", fieldvalue: "(+88) 01611780984" },
-      { fieldName: "Experience", fieldvalue: "6 Month" },
-      { fieldName: "Skype", fieldvalue: "jillur" },
+      { fieldName: "Name", fieldvalue: "Md. Johurul Islam" },
+      { fieldName: "Phone", fieldvalue: "(+88) 01323585205" },
+      { fieldName: "Experience", fieldvalue: "5+ Year" },
+      { fieldName: "LinkedIn", fieldvalue: "https://www.linkedin.com/in/md-johurul-islam-8063a0148/" },
       { fieldName: "Nationality", fieldvalue: "Bangladeshi" },
-      { fieldName: "Email", fieldvalue: "jillur.cse.bd@gmail.com" },
+      { fieldName: "Email", fieldvalue: "johurul.sec@gmail.com" },
       { fieldName: "Freelance", fieldvalue: "Available" },
     ],
   };

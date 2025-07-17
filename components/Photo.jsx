@@ -24,7 +24,7 @@ const Photo = () => {
           className="h-full w-full mix-blend-lighten relative"
         >
           <Image
-            src={johurul}
+            src={jillur}
             priority
             quality={100}
             fill
